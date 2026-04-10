@@ -1,0 +1,5 @@
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio3\obj\Debug\net10.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio3\obj\Debug\net10.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio3\obj\Debug\net10.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio3\obj\Debug\net10.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio3\obj\Debug\net10.0\Ejercicio3.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\bin\Debug\net10.0\Ejercicio5.exe
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\bin\Debug\net10.0\Ejercicio5.deps.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\bin\Debug\net10.0\Ejercicio5.runtimeconfig.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\bin\Debug\net10.0\Ejercicio5.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\bin\Debug\net10.0\Ejercicio5.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.AssemblyInfo.cs
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.sourcelink.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\refint\Ejercicio5.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\Ejercicio5.genruntimeconfig.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio5\obj\Debug\net10.0\ref\Ejercicio5.dll
