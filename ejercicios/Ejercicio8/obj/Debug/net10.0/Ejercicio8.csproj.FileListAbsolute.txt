@@ -1,0 +1,15 @@
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.AssemblyInfo.cs
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.sourcelink.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\bin\Debug\net10.0\Ejercicio8.exe
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\bin\Debug\net10.0\Ejercicio8.deps.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\bin\Debug\net10.0\Ejercicio8.runtimeconfig.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\bin\Debug\net10.0\Ejercicio8.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\bin\Debug\net10.0\Ejercicio8.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\refint\Ejercicio8.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\Ejercicio8.genruntimeconfig.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Ejercicio8\obj\Debug\net10.0\ref\Ejercicio8.dll
