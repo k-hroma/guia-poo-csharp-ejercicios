@@ -26,6 +26,7 @@ escenarios.
 */
 
 
+using System.Reflection;
 using System.Reflection.Metadata.Ecma335;
 using System.Runtime.InteropServices;
 
@@ -73,6 +74,30 @@ public abstract class Empleado
 
 }
 
+public class Empresa
+{
+  private List<Empleado> _empleados;
+  public List<Empleado> Empleados
+  {
+    get { return _empleados; }
+    set { _empleados = value; }
+  }
+
+  //constructor
+  public Empresa()
+  {
+    _empleados = new List<Empleado>();
+  }
+
+  public void InformarSueldos()
+  {
+    foreach (Empleado item in Empleados)
+    {
+      Console.WriteLine($"{item.ToString()} su sueldo es: {item.CalcularSueldo()}");
+    }
+  }
+
+}
 public abstract class BonoPresentismo
 {
   public abstract int Calcular(int inasistencias);
@@ -131,7 +156,24 @@ public class Gerente : Empleado
   {
     return 10000;
   }
+  public override string ToString()
+  {
+    return $"Gerente (inasistencias: {Inasistencias})";
+  }
 
+}
+
+public class Administrativo : Empleado
+{
+  public override int CalcularNeto()
+  {
+    return 40000;
+  }
+
+  public override string ToString()
+  {
+    return $"Administrativo (inasistencias: {Inasistencias})";
+  }
 }
 
 public class Program
@@ -155,5 +197,81 @@ public class Program
     empleado.BonoPresentismo = bonoB;
 
     Console.WriteLine($"El {empleado.GetType().Name} tiene un sueldo de ${empleado.CalcularSueldo()}");
+
+    Console.WriteLine("----------------------");
+
+    Empleado empleadoDos = new Administrativo();
+    empleadoDos.BonoPresentismo = bonoB;
+    empleadoDos.BonoResultado = bonoResultado;
+    empleadoDos.Inasistencias = 0;
+    empleadoDos.ObjetivoCumplido = 80;
+
+
+    //en el contructor de la emprea se genera en cada instancia una nueva lista
+    Empresa objEmpresa = new Empresa();
+
+    objEmpresa.Empleados.Add(empleado);
+    objEmpresa.Empleados.Add(empleadoDos);
+
+    objEmpresa.InformarSueldos();
+
+    objEmpresa.Empleados.Remove(empleadoDos);
+
+    if (objEmpresa.Empleados.Contains(empleadoDos))
+    {
+      Console.WriteLine("El administrativo sigue en la lista.");
+    }
+    else
+    {
+      Console.WriteLine("El Administrativo ya fue removido");
+    }
+
+    // ejemplo con diccionario
+
+    Dictionary<int, Empleado> dicEmpleados = new Dictionary<int, Empleado>();
+    //clave es un objeto de tipo entero y el valor es un objeto de tipo Empleado
+    dicEmpleados.Add(01, empleado);
+    dicEmpleados.Add(02, empleadoDos);
+
+    foreach (KeyValuePair<int, Empleado> item in dicEmpleados)
+    {
+      Console.WriteLine($"El empleado con legajo {item.Key} tiene un sueldo de ${item.Value.CalcularSueldo()}");
+    }
+
+    Console.WriteLine($"{dicEmpleados.ContainsKey(02)}"); // True
+
+    // HashSet => garantiza que no haya valores repetidos, no da error, solo que no lo admite
+
+    HashSet<int> unicos = new HashSet<int>();
+    unicos.Add(123);
+    unicos.Add(567);
+    unicos.Add(1235678);
+
+    foreach (int item in unicos)
+    {
+      Console.WriteLine($"{item}");
+      //123
+      //567
+      //1235678
+    }
+
+    HashSet<Empleado> empleadosUnicos = new HashSet<Empleado>();
+    Gerente objGerente = new Gerente();
+    empleadosUnicos.Add(new Gerente());
+    empleadosUnicos.Add(objGerente);
+    empleadosUnicos.Add(new Administrativo());
+    empleadosUnicos.Add(objGerente);
+
+    Console.WriteLine(empleadosUnicos.Contains(objGerente)); //true
+    empleadosUnicos.Remove(objGerente);
+    Console.WriteLine(empleadosUnicos.Contains(objGerente)); //false
+
+    foreach (Empleado item in empleadosUnicos)
+    {
+      Console.WriteLine(item.ToString());
+    }
+    //Gerente (inasistencias: 0)
+    //Administrativo (inasistencias: 0)
   }
+
 }
