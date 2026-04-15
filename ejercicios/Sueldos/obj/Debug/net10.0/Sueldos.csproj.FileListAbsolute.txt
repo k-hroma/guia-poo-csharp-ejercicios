@@ -1,0 +1,15 @@
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.AssemblyInfoInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.AssemblyInfo.cs
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.sourcelink.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\bin\Debug\net10.0\Sueldos.exe
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\bin\Debug\net10.0\Sueldos.deps.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\bin\Debug\net10.0\Sueldos.runtimeconfig.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\bin\Debug\net10.0\Sueldos.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\bin\Debug\net10.0\Sueldos.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\refint\Sueldos.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\Sueldos.genruntimeconfig.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\Sueldos\obj\Debug\net10.0\ref\Sueldos.dll
