@@ -769,7 +769,9 @@ class Persona
 }
 
 // Se puede llamar sin crear ningún objeto:
-Persona.MetodoEstatico();
+Persona.MetodoEstatico(); // ✅ si se puede
+// Un método que NO es estaático no se puede llamar sin una instancia de clase:
+Persona.MetodoNormal(); // ❌ ERROR
 ```
 
 ### Constantes con `static readonly`
@@ -786,6 +788,15 @@ public class Modem
 // Uso:
 Console.WriteLine(Modem.BAUD_RATE_9600);    // 9600
 Console.WriteLine(Modem.BAUD_RATE_115200);  // 115200
+```
+
+```csharp
+// Pow y WriteLine son métodos estáticos
+
+double resultado = Math.Pow(5, 2); // 25
+Console.WriteLine($"El resultados es: {resultado}")
+
+
 ```
 
 ---

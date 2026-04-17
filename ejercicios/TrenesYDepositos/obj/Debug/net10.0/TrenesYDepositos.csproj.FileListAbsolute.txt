@@ -1,0 +1,15 @@
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.AssemblyInfoInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.AssemblyInfo.cs
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.sourcelink.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\bin\Debug\net10.0\TrenesYDepositos.exe
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\bin\Debug\net10.0\TrenesYDepositos.deps.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\bin\Debug\net10.0\TrenesYDepositos.runtimeconfig.json
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\bin\Debug\net10.0\TrenesYDepositos.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\bin\Debug\net10.0\TrenesYDepositos.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\refint\TrenesYDepositos.dll
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.pdb
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\TrenesYDepositos.genruntimeconfig.cache
+C:\Users\Rocio\Desktop\UTN\TUP\2doCuatrimiestre\Programacion II\Ejercicios\ejercicios\TrenesYDepositos\obj\Debug\net10.0\ref\TrenesYDepositos.dll
